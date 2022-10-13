@@ -1,0 +1,2 @@
+Kaggle:
+https://www.kaggle.com/datasets/gargmanas/sentimental-analysis-for-tweets?fbclid=IwAR3_BvSZoe-A17GQSxsdcdF9KuDyEXMDzUkxTLfIm6Xs3lJNBxBnT-KL4zA
